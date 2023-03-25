@@ -1,6 +1,8 @@
 # cv-sidebar
 LaTeX-class for my CV
 
+![image](https://user-images.githubusercontent.com/1878071/227737873-f2ef33f5-f46d-42d2-96c3-841a2774fd89.png)
+
 # How to use
 You need some version of LaTeX to build your CV. I use XeLaTeX.
 
